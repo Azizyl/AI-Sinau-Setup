@@ -1,0 +1,5 @@
+name: "menulis_cep4t"
+title: "Menulis Cep4t"
+description: "Menulis, menyunting, dan memformat dokumen akademik berbahasa Indonesia sampai PDF dan DOCX dengan preset kampus, kaidah EYD V dan KBBI, serta sitasi terverifikasi OpenAlex atau Crossref."
+category: "Work and knowledge"
+include_in_prompt: true

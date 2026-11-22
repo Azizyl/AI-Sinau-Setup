@@ -1,0 +1,5 @@
+name: "study_atlas"
+title: "Study Atlas"
+description: "Turn course slides, PDFs, notes, or a topic into one offline interactive study app (single HTML file): zoomable mind map with recall mode, study guide, spaced-repetition flashcards, timed mock exams, highlights-only and numbers-only tests."
+category: "Work and knowledge"
+include_in_prompt: true

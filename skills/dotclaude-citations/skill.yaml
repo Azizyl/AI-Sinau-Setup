@@ -1,0 +1,5 @@
+name: "dotclaude_citations"
+title: "dotclaude Citations"
+description: "Manage and verify academic citations: keep a .bib as single source of truth (bibtex-manager), audit citations against Crossref, OpenAlex, and arXiv (citation-verifier), and expand literature via the OpenAlex/Semantic Scholar citation graph (citation-graph)."
+category: "Work and knowledge"
+include_in_prompt: true

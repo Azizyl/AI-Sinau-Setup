@@ -1,0 +1,5 @@
+name: "sympy"
+title: "SymPy"
+description: "Exact symbolic mathematics with SymPy: algebra, calculus, equation solving, matrices, and physics — with verified computation."
+category: "Work and knowledge"
+include_in_prompt: true

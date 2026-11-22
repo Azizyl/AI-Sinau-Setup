@@ -1,0 +1,5 @@
+name: "matplotlib"
+title: "Matplotlib"
+description: "Create and customize publication-quality scientific plots with Matplotlib, using the pyplot and object-oriented APIs."
+category: "Work and knowledge"
+include_in_prompt: true
