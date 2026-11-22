@@ -1,0 +1,5 @@
+name: "anthropic_document_skills"
+title: "Anthropic Document Skills"
+description: "Create, read, edit, and validate real Word, Excel, PowerPoint, and PDF files: the docx, xlsx, pptx, and pdf sub-skills from Anthropic's official skills repository, with scripts for tracked changes, comments, formulas, charts, and form filling."
+category: "Work and knowledge"
+include_in_prompt: true
