@@ -1,10 +1,9 @@
 # AI Sinau Setup
 
-Kumpulan skill AI untuk belajar — disusun untuk mahasiswa statistika, tapi bisa
+Kumpulan skill AI untuk belajar — disusun untuk mahasiswa , bisa
 dipakai siapa saja. *Sinau* (Jawa) = belajar.
 
-A curated collection of AI skills for studying — put together for statistics
-students, but useful for anyone. Each skill is a folder with a `SKILL.md` that
+Each skill is a folder with a `SKILL.md` that
 any AI agent can read and follow.
 
 ## Skills included
